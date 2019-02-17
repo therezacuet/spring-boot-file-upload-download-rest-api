@@ -5,7 +5,7 @@
 **1. Clone the repository** 
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-file-upload-download-rest-api-example.git
+git clone https://github.com/therezacuet/spring-boot-file-upload-download-rest-api.git
 ```
 
 **2. Run the app using maven**
